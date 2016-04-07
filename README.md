@@ -1,2 +1,2 @@
 # hello-world
-learning idiot
+beginning to learn
